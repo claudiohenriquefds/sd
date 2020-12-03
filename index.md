@@ -1,5 +1,8 @@
 # Sistemas Distribuidos - Pesquisa sobre Sistemas operacionais
+
 ## Cláudio Henrique Ferreira da Silva - 4ADS
+
+
 ### Sistema Operacional Centralizado
 
 Um sistema de operacional centralizado (SOC) é aquele executado em uma coleção de máquinas, que se utiliza de seus recursos individuais e possui uma máquina servidora que centraliza todas as informações. São sistemas que possuem pouco poder de processamento sequencial (tempo compartilhado) e necessitam de um mainframe para que possa funcionar com qualidade. Porém, por maior que seja a velocidade de processamento de um mainframe, ele jamais conseguirá alcançar o poder de processamento de vários microcomputadores interligados, como se fosse um único sistema.
@@ -9,7 +12,8 @@ Um sistema de operacional centralizado (SOC) é aquele executado em uma coleçã
 - São utilizadas as máquinas clientes com pouca capacidade e um servidor robusto.
 - Um sistema centralizado não há necessidade de um diretório distribuído.
 
-![Image](src)
+![Image](https://github.com/claudiohenriquefds/chfs/blob/master/src/assets/1.jpeg?raw=true)
+
 [Referencia](https://www.infoescola.com/informatica/sistema-de-informacao-centralizado/)
 
 ### Sistema Operacional De Rede
@@ -23,7 +27,8 @@ Um Sistema Operacional de Redes é um conjunto de módulos que amplíam os siste
 - Compartilhamento de arquivos e impressoras
 - Servidores: Servidor de Arquivos, Servidor de Banco de Dados, Servidor de Impressão, Servidor de Comunicação, Servidor de Gerenciamento.
 
-![Image](src)
+![Image](https://github.com/claudiohenriquefds/chfs/blob/master/src/assets/2.jpeg?raw=true)
+
 [Referencia](http://rrbrandt.dee.ufcg.edu.br/br/docs/redes/sor)
 
 ### Sistema Operacional Distribuido
@@ -48,7 +53,8 @@ Um sistema distribuído é um conjunto de computadores independentes entre si qu
 **Escalabilidade:**
 - Podemos afirmar que os sistemas são classificados de 3 formas com relação a escalabilidade, por tamanho, em termos geográficos e termos administrativos. O aumento do tamanho dos sistemas faz com que o problemas também aumente, podemos conceituar o tamanho como serviços centralizados, onde um servidor único é usado por todos os usuários, pode gerar um gargalo no sistema.
 
-![Image](src)
+![Image](https://github.com/claudiohenriquefds/chfs/blob/master/src/assets/3.jpeg?raw=true)
+
 [Referencia](https://tecnologia.culturamix.com/dicas/o-que-e-um-sistema-distribuido)
 
 ### Sistema Operacional Paralelo
@@ -62,4 +68,4 @@ Um sistema distribuído é um conjunto de computadores independentes entre si qu
 - Custo pode ser diminuído a partir do entendimento das alternativas de construção de máquinas paralelas, possibilitando uma arquitetura mais acessível que obtenha o desempenho desejado.
 - Necessidade de conhecimento de características específicas da máquina para a qual serão implementados as aplicações paralelas aumentam a complexidade no desenvolvimento de programas.
 
-![Image](src)
+![Image](https://github.com/claudiohenriquefds/chfs/blob/master/src/assets/4.jpeg?raw=true)
